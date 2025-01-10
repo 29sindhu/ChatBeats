@@ -1,0 +1,13 @@
+requests
+pywhatkit
+tkinter
+scikit-learn
+beautifulsoup4
+speechrecognition
+pyttsx3
+datetime
+wikipedia-api
+pyautogui
+Pillow
+opencv-python
+imutils
